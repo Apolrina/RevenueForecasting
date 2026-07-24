@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Prophet](https://img.shields.io/badge/Prophet-Time%20Series-orange)
+![SARIMAX](https://img.shields.io/badge/SARIMAX-Statsmodels-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # Business KPI Forecasting Pipeline (Prophet + SARIMAX Ensemble)
 
 Production-style time series forecasting pipeline for business KPIs using an ensemble of Prophet and SARIMAX with automated data preprocessing, anomaly detection, hyperparameter tuning, model evaluation, and 12-month forecasting.
