@@ -9,6 +9,17 @@ Production-style time series forecasting pipeline for business KPIs using an ens
 
 ---
 
+## Project Highlights
+
+- Automated forecasting for multiple business KPIs
+- Ensemble of Prophet and SARIMAX
+- Robust preprocessing with anomaly detection
+- Hyperparameter tuning using time-series cross-validation
+- Dynamic 12-month forecasting horizon
+- Production-ready modular architecture
+
+---
+
 ## Project Overview
 
 This project implements an end-to-end forecasting pipeline for monthly business metrics.
@@ -313,17 +324,6 @@ Potential future enhancements include:
 - Additional external regressors
 - Confidence interval estimation for the ensemble
 - Interactive dashboard (Streamlit)
-
----
-
-## Project Highlights
-
-- Automated forecasting for multiple business KPIs
-- Ensemble of Prophet and SARIMAX
-- Robust preprocessing with anomaly detection
-- Hyperparameter tuning using time-series cross-validation
-- Dynamic 12-month forecasting horizon
-- Production-ready modular architecture
 
 ---
 
