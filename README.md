@@ -316,6 +316,17 @@ Potential future enhancements include:
 
 ---
 
+## Project Highlights
+
+- Automated forecasting for multiple business KPIs
+- Ensemble of Prophet and SARIMAX
+- Robust preprocessing with anomaly detection
+- Hyperparameter tuning using time-series cross-validation
+- Dynamic 12-month forecasting horizon
+- Production-ready modular architecture
+
+---
+
 # Author
 
 Irina — Data Analyst
